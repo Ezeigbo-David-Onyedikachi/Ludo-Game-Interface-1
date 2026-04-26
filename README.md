@@ -4,7 +4,7 @@ A clean, modern, and responsive Ludo board interface built using semantic HTML5 
 This project focuses on high-fidelity layout replication and responsive design.
 
 ##Live Demo
-
+https://ezeigbo-david-onyedikachi.github.io/Ludo-Game-Interface-1/
 
 ##Features
 * **Precision Grid Layout:** Built with a 15x15 CSS Grid system for perfect alignment.
@@ -17,7 +17,7 @@ This project focuses on high-fidelity layout replication and responsive design.
 * **CSS3:** CSS Grid, Flexbox, and Custom Variables (CSS Variables) for easy color management.
 
 ##Preview
-![Ludo Board Screenshot](link-to-your-screenshot-here.png)
+![Ludo Board Screenshot](ludo-game-interface.png)
 
 ##Project Structure
 ```text
